@@ -1,0 +1,7 @@
+2026-04-03 11:41:11,149 - INFO - Job started
+2026-04-03 11:41:11,150 - ERROR - Config file not found
+2026-04-03 11:45:21,379 - INFO - Job started
+2026-04-03 11:45:21,382 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-04-03 11:45:21,386 - INFO - Rows loaded: 6
+2026-04-03 11:45:21,395 - INFO - Metrics: {'version': 'v1', 'rows_processed': 2, 'metric': 'signal_rate', 'value': np.float64(1.0), 'latency_ms': 15, 'seed': 42, 'status': 'success'}
+2026-04-03 11:45:21,395 - INFO - Job completed successfully
