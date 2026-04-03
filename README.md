@@ -1,1 +1,1 @@
-# primetrade-ai-task
+mlops-internship-task
