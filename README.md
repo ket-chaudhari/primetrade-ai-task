@@ -1,4 +1,4 @@
-# MLOps Task
+# MLOps Task This repository contains the MLOps internship assignment for PrimetradeAI. It demonstrates a reproducible pipeline that processes input data and generates performance metrics using both local execution and Docker.
 
 ## Run locally
 python run.py --input data.csv --config config.yaml --output metrics.json --log-file run.log
